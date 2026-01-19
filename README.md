@@ -13,7 +13,6 @@
 ----------------------------------------------------------
 
 HyKult is the official Kult Rising modpack fir Hytale, that brings the Sxlaris Canon of the SCP Foundation into Hytale. 
-
 HyKult is designed to be a much more laid back and less serious version of the Kult Rising experience, aiming less for being perfectly accurate to canon, and more for satisfying/relaxing gameplay loops. 
 ----------------------------------------------------------
 
