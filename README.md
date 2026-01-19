@@ -23,3 +23,4 @@ HyKult is designed to be a much more laid back and less serious version of the K
 
 2026.1.18
 - added Caseoh NPC Merchant
+    - added item to spawn Case
