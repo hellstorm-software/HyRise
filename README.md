@@ -27,6 +27,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - created walter white skin
     - added crafting recipe to alchemy workbench
 - Updated Caseoh NPC
+    - changed overtop to hoodie
 
 ----------------------------------------------------------
 
