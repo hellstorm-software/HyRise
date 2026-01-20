@@ -30,6 +30,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - changed overtop to hoodie
     - added hood
     - added blue texture to hood
+    - added beard
 
 ----------------------------------------------------------
 
