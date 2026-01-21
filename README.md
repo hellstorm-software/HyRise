@@ -39,6 +39,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - added crafting recipe from Softwood Logs
 - began adding SCP-x009-1 Workbench
     - created weapon category
+    - created NPCs category
 ----------------------------------------------------------
 
 2026.1.18
