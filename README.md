@@ -36,6 +36,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - removed seeds from workbench
     - added all plants with seeds to salvager
 - added Backrooms Level 0 Block
+    - added crafting recipe from Softwood Logs
 
 ----------------------------------------------------------
 
