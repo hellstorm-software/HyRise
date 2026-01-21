@@ -33,6 +33,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - began adding Mjolnir
     - added hammer model
     - added animations
+    - added dagger lunge
 
 ----------------------------------------------------------
 
