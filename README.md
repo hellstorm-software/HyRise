@@ -35,6 +35,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
     - added animations
     - added dagger lunge
     - added ground slam
+    - added crafting recipe to SCP-x009-1
 
 ----------------------------------------------------------
 
