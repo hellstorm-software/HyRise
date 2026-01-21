@@ -20,6 +20,10 @@ HyKult is designed to be a much more laid back and less serious version of the K
 
 ----------------------------------------------------------
 
+2026.1.21
+
+----------------------------------------------------------
+
 2026.1.20
 - added Walter White NPC Merchant
     - added item to spawn Walter
