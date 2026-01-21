@@ -21,6 +21,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
 ----------------------------------------------------------
 
 2026.1.21
+- began adding SCP-x009-1 Workbench
 
 ----------------------------------------------------------
 
