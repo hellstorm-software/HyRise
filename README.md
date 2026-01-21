@@ -34,6 +34,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - changed crafting recipe to 20x blue petals and 5x concentrated life orbs
 - Created Immersive Farming Mod
     - removed seeds from workbench
+    - added all plants with seeds to salvager
 
 ----------------------------------------------------------
 
