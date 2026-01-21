@@ -35,6 +35,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
 - Created Immersive Farming Mod
     - removed seeds from workbench
     - added all plants with seeds to salvager
+- added Backrooms Level 0 Block
 
 ----------------------------------------------------------
 
