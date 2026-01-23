@@ -29,6 +29,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - updated Crelly merchant trades
 - began adding mouse iron
     - added mouse iron ore
+    - added mouse iron
 
 ----------------------------------------------------------
 
