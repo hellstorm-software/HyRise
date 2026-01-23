@@ -24,7 +24,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - updated Crelly NPC model
     - added horns
     - added green hair and bangs
-    - changed undershirt to white frilly shitt
+    - changed undershirt to white frilly shirt
 
 ----------------------------------------------------------
 
