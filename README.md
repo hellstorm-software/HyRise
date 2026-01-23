@@ -25,6 +25,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
     - added horns
     - added green hair and bangs
     - changed undershirt to white frilly shirt
+    - changed overshirt to brown cardigan
 
 ----------------------------------------------------------
 
