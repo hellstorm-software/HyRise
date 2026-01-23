@@ -35,6 +35,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - fixed an issue causing the Caseoh and walter white spawn eggs to not be consumed
 - moved mouse iron ore to misc tab
 - moved cowbell necklack item to misc tab
+- added Uru
 
 ----------------------------------------------------------
 
