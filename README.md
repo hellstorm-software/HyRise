@@ -25,6 +25,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
     - created crelly model
     - created crelly spawn egg
     - created cowbell necklace item
+    - added spawn egg recipe to SCP-x009-1 workbench
 - fixed an issue causing Caseoh NPC to display as "Rootling Merchant"
 - fixed an issue causing Walter White NPC to display as "Rootling Merchant"
 - spawn eggs are now consumed on use
