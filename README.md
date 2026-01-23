@@ -23,6 +23,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 2026.1.22
 - began creating Crelly NPC
     - created crelly model
+    - created crelly spawn egg
 - fixed an issue causing Caseoh NPC to display as "Rootling Merchant"
 - fixed an issue causing Walter White NPC to display as "Rootling Merchant"
 - spawn eggs are now consumed on use
