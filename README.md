@@ -27,6 +27,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
     - changed undershirt to white frilly shirt
     - changed overshirt to brown cardigan
 - updated Crelly merchant trades
+- began adding mouse iron
 
 ----------------------------------------------------------
 
