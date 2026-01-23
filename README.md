@@ -36,6 +36,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - moved mouse iron ore to misc tab
 - moved cowbell necklack item to misc tab
 - added Uru
+    - updated Asgardian weapons to use Uru
 
 ----------------------------------------------------------
 
