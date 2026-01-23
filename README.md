@@ -21,6 +21,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 ----------------------------------------------------------
 
 2026.1.22
+- began creating Crelly NPC
 
 ----------------------------------------------------------
 
