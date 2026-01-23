@@ -30,6 +30,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - began adding mouse iron
     - added mouse iron ore
     - added mouse iron
+- Updated SCP-x009-1 bench to have the salvage bench model
 
 ----------------------------------------------------------
 
