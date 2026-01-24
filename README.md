@@ -23,6 +23,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 2026.1.24
 - added Guide NPC
 - updated scp-x009-1 bench to be easier to craft
+- added ironmouse NPC
 
 ----------------------------------------------------------
 
