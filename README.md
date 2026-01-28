@@ -21,12 +21,13 @@ HyRise is designed to be a much more laid back and less serious version of the K
 ----------------------------------------------------------
 
 
-2026.1.25 - 2026.1.26
+2026.1.25 - 2026.1.27
 - added mouser c96 firearm
 - added mouseiron armor set
     - added icons to armor pieces
     - added textures to armor pieces
     - added crafting recipes to x009Bench
+- began adding terraria merchant NPC
 
 ----------------------------------------------------------
 
