@@ -17,3 +17,5 @@ HyRise is designed to be a much more laid back and less serious version of the K
 ----------------------------------------------------------
 
 Convergence is an SMP project that may eventually be turned into a playable map as well. Convergence SMP was originally a minecraft server I ran back around 2018 with my friends. Eventually everyone but me stopped playing minecraft, so it eventually stopped being an SMP and went back to just being a singleplayer world.
+
+But the general loose lore of convergence was basically meant to be the Void from Marvel's Loki. In other words, the world of Convergence is "a metaphysical junkyard where anything useless goes before it gets annihilated forever."
